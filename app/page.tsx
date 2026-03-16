@@ -162,7 +162,6 @@ export default function Home() {
           <div className="flex justify-center gap-8 text-gray-400 text-lg">
             <a href="mailto:spandanapotti30@gmail.com" className="hover:text-white">Email</a>
             <a href="https://linkedin.com/in/spandanapotti30" className="hover:text-white">LinkedIn</a>
-            <a href="https://github.com/spandanapotti30" className="hover:text-white">GitHub</a>
           </div>
         </section>
 
